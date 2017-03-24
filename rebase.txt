@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 rebase ne e ok
-=======
-rebase e ok
->>>>>>> a91e33824fc5ab2c0b774e3a23cb87b3b9a51285
+
